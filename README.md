@@ -91,6 +91,7 @@ Aspiring Data Analyst | Python | SQL | Power BI | Business Analytics
 📧 ayazriyazahmedkhan@gmail.com 🌐 https://www.linkedin.com/in/ayazriyazkhan
 <img width="1125" height="512" alt="Screenshot 2026-02-16 130115" src="https://github.com/user-attachments/assets/2872637a-9406-454a-98e4-eea78f411ff8" />
 <img width="1151" height="527" alt="Screenshot 2026-02-16 130210" src="https://github.com/user-attachments/assets/bbdef9f9-bf5f-4982-957a-c238bb8284a9" />
-<img width="915" height="562" alt="Screenshot 2026-02-16 130237" src="https://github.com/user-attachments/assets/c21d1941-e740-4321-ba50-378f60e597a4" />
+<img width="909" height="495" alt="Screenshot 2026-02-16 155403" src="https://github.com/user-attachments/assets/e15e1021-9bfe-4308-976f-ec6d55480426" />
+
 
 
