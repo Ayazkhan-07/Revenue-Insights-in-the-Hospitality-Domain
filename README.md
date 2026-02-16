@@ -86,7 +86,7 @@ Perform forecasting on bookings and revenue
 
 ## Author
 
-Ayaz Khan
+## Ayaz Khan
 Aspiring Data Analyst | Python | SQL | Power BI | Business Analytics
 📧 ayazriyazahmedkhan@gmail.com 🌐 https://www.linkedin.com/in/ayazriyazkhan
 <img width="1125" height="512" alt="Screenshot 2026-02-16 130115" src="https://github.com/user-attachments/assets/2872637a-9406-454a-98e4-eea78f411ff8" />
